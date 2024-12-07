@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import HTMLLogo from "./ICON/4.png";
-import CSS from "./ICON/(1).png";
+import CSS from "./ICON/(1).webp";
 
 function Techstack() {
   return (
