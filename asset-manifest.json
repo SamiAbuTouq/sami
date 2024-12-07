@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sami/static/css/main.af59d528.css",
+    "main.js": "/sami/static/js/main.dbf0c307.js",
+    "static/js/415.4d6acbeb.chunk.js": "/sami/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sami/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.png": "/sami/static/media/home-bg.2762ddb8ba2d7ce12553.png",
+    "static/media/(13).png": "/sami/static/media/(13).cfd8382f358445cbab0c.png",
+    "static/media/SamiAbuTouq.pdf": "/sami/static/media/SamiAbuTouq.7c2cb2ef49ce072de2f2.pdf",
+    "static/media/about.png": "/sami/static/media/about.6817136613d993cbfa72.png",
+    "static/media/home-main.svg.png": "/sami/static/media/home-main.svg.065b44ad0af16de18009.png",
+    "static/media/(12).png": "/sami/static/media/(12).c0aaea1fd5f113ea7ca0.png",
+    "static/media/s.png": "/sami/static/media/s.4c3c37250fda9ea184f9.png",
+    "static/media/(8).png": "/sami/static/media/(8).b3ab844f27c377c9537a.png",
+    "static/media/(2).png": "/sami/static/media/(2).02fb6917fd35b7c81241.png",
+    "static/media/L2.png": "/sami/static/media/L2.b7513a37306a1004ac5c.png",
+    "static/media/5.png": "/sami/static/media/5.ac9a682a847ab7f2cff6.png",
+    "static/media/(7).png": "/sami/static/media/(7).a777e9f0a6604a2f259b.png",
+    "static/media/4.png": "/sami/static/media/4.8827f508795d7c4277e3.png",
+    "static/media/(3).png": "/sami/static/media/(3).9b1c9244ec0396d8cf85.png",
+    "static/media/(14).png": "/sami/static/media/(14).4a32f53d425c7ad4cb05.png",
+    "static/media/(1).png": "/sami/static/media/(1).24a8f93854ab092f17a7.png",
+    "static/media/pharmacy.png": "/sami/static/media/pharmacy.08dcf2193ec62e50c159.png",
+    "static/media/(3).webp": "/sami/static/media/(3).17b8259b333156d4ef4a.webp",
+    "static/media/avatar.png": "/sami/static/media/avatar.b3a9ad22df7c9d90d09c.png",
+    "static/media/lcm-and-gcf.png": "/sami/static/media/lcm-and-gcf.aae1f48001887d734f86.png",
+    "static/media/9.webp": "/sami/static/media/9.1ec9e4d8cc452fd862b3.webp",
+    "static/media/(2).webp": "/sami/static/media/(2).3d44e275d6c58d3434d0.webp",
+    "static/media/(4).webp": "/sami/static/media/(4).ba328216b9968da4381c.webp",
+    "index.html": "/sami/index.html",
+    "main.af59d528.css.map": "/sami/static/css/main.af59d528.css.map",
+    "main.dbf0c307.js.map": "/sami/static/js/main.dbf0c307.js.map",
+    "415.4d6acbeb.chunk.js.map": "/sami/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sami/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af59d528.css",
+    "static/js/main.dbf0c307.js"
+  ]
+}
